@@ -1,4 +1,4 @@
-🏢 Raumbuchung Streamlit
+# 🏢 Raumbuchung Streamlit
 
 Buchungssystem als Lernprojekt mit Python & Streamlit
 Einfach, verständlich und Schritt für Schritt aufgebaut.
@@ -6,40 +6,48 @@ Einfach, verständlich und Schritt für Schritt aufgebaut.
 🌐 Ziel
 
 Eine Web-App zur Buchung von Räumen und Plätzen
-→ läuft im Browser auf PC und Handy
+→ läuft im Browser auf **PC und Handy**
+
+---
 
 🎯 Projektidee
 
 Die Anwendung soll:
 
-Räume anzeigen
-Plätze anzeigen
-freie und belegte Plätze unterscheiden
-Buchung ermöglichen
-Plätze wieder freigeben
-einfaches Feedback ermöglichen
+* Räume anzeigen
+* Plätze anzeigen
+* freie und belegte Plätze unterscheiden
+* Buchung ermöglichen
+* Plätze wieder freigeben
+* einfaches Feedback ermöglichen
+
+---
 
 💡 Warum dieses Projekt
 
 Ziel ist es:
 
-Python praktisch zu lernen
-UI-Logik zu verstehen
-sauberen Code zu schreiben
-ein echtes kleines System aufzubauen
+* Python praktisch zu lernen
+* UI-Logik zu verstehen
+* sauberen Code zu schreiben
+* ein echtes kleines System aufzubauen
 
 Fokus:
 
-einfache Lösungen
-klare Struktur (Block-Prinzip)
-alles selbst verstehen können
+* einfache Lösungen
+* klare Struktur (Block-Prinzip)
+* alles selbst verstehen können
+
+---
 
 ⚙️ Technologien
 
-Python
-Streamlit
-GitHub
-(später) Datenbank
+* Python
+* Streamlit
+* GitHub
+* (später) Datenbank
+
+---
 
 🏗 Projektstruktur
 
@@ -52,16 +60,18 @@ Block 3 – Eingaben
 Block 4 – Logik
 Block 5 – Ausgabe
 
+---
+
 🚀 Geplant
 
-Buchungssystem
-Freigabe-Funktion
-Feedback
-Admin-Ansicht
-Daten speichern
+* Buchungssystem
+* Freigabe-Funktion
+* Feedback
+* Admin-Ansicht
+* Daten speichern
+
+---
 
 ℹ️ Hinweis
 
 Dieses Projekt ist ein Lernprojekt und wird Schritt für Schritt erweitert.
-
-
